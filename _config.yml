@@ -1,0 +1,28 @@
+name: Magnify
+favicon: null
+layout_spectrum: 0.9983987638261169
+typography_spectrum: 0.2892066044732928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5475983864162117
+  lightness: 0.16626186296343803
+  saturation: 0.8142343512736261
+  rhythmicContrast: 0.5088349801953882
+purpose: []
